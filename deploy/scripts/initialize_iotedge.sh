@@ -1,6 +1,6 @@
 # Wait for other processes to finish.
-echo "Sleeping for 1 minute..."
-sleep 1m
+echo "Sleeping for 3 minute..."
+sleep 3m
 
 # Install Azure cli
 echo "Installing Azure cli"
